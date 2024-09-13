@@ -6,7 +6,7 @@ public class GroundCheck : MonoBehaviour
 {
     public static bool isGrounded = true;
 
-    private float helloGuys = 3;
+    private float helloGuys = 5;
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
