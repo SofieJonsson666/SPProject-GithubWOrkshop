@@ -4,7 +4,7 @@ public class PlayMovement : MonoBehaviour
 {
     public float runSpeed = 2;
     public float jumpSpeed = 3;
-    public float doubleJumpSpeed = 2.5f;
+    public float doubleJumpSpeed = 2f;
 
     private bool canDoubleJump;
 
