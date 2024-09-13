@@ -8,6 +8,8 @@ public class GroundCheck : MonoBehaviour
 
     private float helloGuys = 5;
 
+    private string message = " :3";
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
         isGrounded = true;
